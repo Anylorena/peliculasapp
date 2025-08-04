@@ -1,0 +1,142 @@
+[
+  {
+    "_id": {
+      "$oid": "6065ec4020a642bca2ce04cd"
+    },
+    "id_usuario": {
+      "$oid": "9695b6f8646b4e74ac4b6a66"
+    },
+    "id_recurso": {
+      "$oid": "e073c8eaa7b744fb8809929d"
+    },
+    "comentario": "No la recomendar\u00eda.",
+    "nota": 5,
+    "fecha": "2025-08-02T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "0a7db4aec9fa426682c97593"
+    },
+    "id_usuario": {
+      "$oid": "9695b6f8646b4e74ac4b6a66"
+    },
+    "id_recurso": {
+      "$oid": "d945a6473a6549498a92aa13"
+    },
+    "comentario": "No la recomendar\u00eda.",
+    "nota": 2,
+    "fecha": "2025-08-03T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "9bb5c179f8ee4b468fe9139d"
+    },
+    "id_usuario": {
+      "$oid": "689d2dbef70f4a34bdc4f892"
+    },
+    "id_recurso": {
+      "$oid": "830d84c2d1954e44a3ac033e"
+    },
+    "comentario": "Buena producci\u00f3n.",
+    "nota": 3,
+    "fecha": "2025-08-02T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "79855c17df114362a16e328c"
+    },
+    "id_usuario": {
+      "$oid": "e5f649e724de44f6b62c8df0"
+    },
+    "id_recurso": {
+      "$oid": "38d3288156f941828adf570b"
+    },
+    "comentario": "No la recomendar\u00eda.",
+    "nota": 4,
+    "fecha": "2025-08-04T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "ee9253af50644d79acd171e3"
+    },
+    "id_usuario": {
+      "$oid": "87cbbb5e31bb479dbfc409e3"
+    },
+    "id_recurso": {
+      "$oid": "107b3b59a3ec4b99ba06aa19"
+    },
+    "comentario": "Excelente historia.",
+    "nota": 1,
+    "fecha": "2025-08-02T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "058e6c609a2149d59cb9facb"
+    },
+    "id_usuario": {
+      "$oid": "87cbbb5e31bb479dbfc409e3"
+    },
+    "id_recurso": {
+      "$oid": "8ac5acbb782f4d669fe947d7"
+    },
+    "comentario": "Me encant\u00f3 la trama.",
+    "nota": 4,
+    "fecha": "2025-08-04T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "1311463b64924830be3589ca"
+    },
+    "id_usuario": {
+      "$oid": "257bd63258af48cfa83fff61"
+    },
+    "id_recurso": {
+      "$oid": "e3f788bae1f5462bb910d76f"
+    },
+    "comentario": "Buena producci\u00f3n.",
+    "nota": 2,
+    "fecha": "2025-08-03T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "b2e56d9ff065447199778091"
+    },
+    "id_usuario": {
+      "$oid": "257bd63258af48cfa83fff61"
+    },
+    "id_recurso": {
+      "$oid": "e073c8eaa7b744fb8809929d"
+    },
+    "comentario": "Buena producci\u00f3n.",
+    "nota": 5,
+    "fecha": "2025-08-02T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "4b64c65484c24abda58c37ed"
+    },
+    "id_usuario": {
+      "$oid": "9695b6f8646b4e74ac4b6a66"
+    },
+    "id_recurso": {
+      "$oid": "107b3b59a3ec4b99ba06aa19"
+    },
+    "comentario": "No la recomendar\u00eda.",
+    "nota": 2,
+    "fecha": "2025-08-01T12:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "8fcc36f5f6e049f091b019e3"
+    },
+    "id_usuario": {
+      "$oid": "9695b6f8646b4e74ac4b6a66"
+    },
+    "id_recurso": {
+      "$oid": "d945a6473a6549498a92aa13"
+    },
+    "comentario": "Buena producci\u00f3n.",
+    "nota": 3,
+    "fecha": "2025-08-01T12:00:00Z"
+  }
+]

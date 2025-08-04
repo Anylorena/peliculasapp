@@ -1,0 +1,669 @@
+[
+  {
+    "_id": {
+      "$oid": "9d7cee35b21998fd5913db07"
+    },
+    "id_usuario": {
+      "$oid": "86118076074c9f6f043ed381"
+    },
+    "id_recurso": {
+      "$oid": "3c3379611b8b50445df193fd"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-03-02T07:48:31Z"
+  },
+  {
+    "_id": {
+      "$oid": "25eaa3765065f23eddc936a4"
+    },
+    "id_usuario": {
+      "$oid": "791685e5e75d968a40065dc2"
+    },
+    "id_recurso": {
+      "$oid": "2b05b4aca4d81af95f0eb07a"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-05-30T04:29:12Z"
+  },
+  {
+    "_id": {
+      "$oid": "7a91601ebe03e578f3eeeb6e"
+    },
+    "id_usuario": {
+      "$oid": "0bad8560d1f0533debac90ab"
+    },
+    "id_recurso": {
+      "$oid": "c3b004e92a31b4cc2903f8ba"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-05-21T04:13:07Z"
+  },
+  {
+    "_id": {
+      "$oid": "f03e7ebf017df2eddd8a7853"
+    },
+    "id_usuario": {
+      "$oid": "0bad8560d1f0533debac90ab"
+    },
+    "id_recurso": {
+      "$oid": "cbe83e441a6a6069e9404692"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-06-30T06:00:37Z"
+  },
+  {
+    "_id": {
+      "$oid": "30168078d01e24c9a01ed43e"
+    },
+    "id_usuario": {
+      "$oid": "791685e5e75d968a40065dc2"
+    },
+    "id_recurso": {
+      "$oid": "c3b004e92a31b4cc2903f8ba"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-01-15T02:59:06Z",
+    "fecha_fin": "2025-01-22T02:59:06Z"
+  },
+  {
+    "_id": {
+      "$oid": "02e3f3d895f8d706f3de2754"
+    },
+    "id_usuario": {
+      "$oid": "86118076074c9f6f043ed381"
+    },
+    "id_recurso": {
+      "$oid": "c3b004e92a31b4cc2903f8ba"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-06-09T20:43:45Z",
+    "fecha_fin": "2025-06-15T20:43:45Z"
+  },
+  {
+    "_id": {
+      "$oid": "26745157cca0599a1845506d"
+    },
+    "id_usuario": {
+      "$oid": "791685e5e75d968a40065dc2"
+    },
+    "id_recurso": {
+      "$oid": "1b6cb6e9c9369859494992e7"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-03-30T15:55:46Z",
+    "fecha_fin": "2025-04-03T15:55:46Z"
+  },
+  {
+    "_id": {
+      "$oid": "154aa6a060af271c81fd5837"
+    },
+    "id_usuario": {
+      "$oid": "f112d652ecf13dacd9c78c11"
+    },
+    "id_recurso": {
+      "$oid": "41b45a753ddf9d05662805a5"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-01-07T02:15:37Z"
+  },
+  {
+    "_id": {
+      "$oid": "d949835d51679d4c37b667b6"
+    },
+    "id_usuario": {
+      "$oid": "0ced544422ae9d74b4257523"
+    },
+    "id_recurso": {
+      "$oid": "f903b6a295cc6d1867880cbe"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-05-21T16:09:27Z",
+    "fecha_fin": "2025-05-27T16:09:27Z"
+  },
+  {
+    "_id": {
+      "$oid": "666143ce64b8703c31b4779f"
+    },
+    "id_usuario": {
+      "$oid": "362dfb74068abe8d73220eac"
+    },
+    "id_recurso": {
+      "$oid": "bf538adaeca2392ea37af8db"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-07-25T11:31:18Z",
+    "fecha_fin": "2025-07-28T11:31:18Z"
+  },
+  {
+    "_id": {
+      "$oid": "21f3205f183ff812267090a4"
+    },
+    "id_usuario": {
+      "$oid": "e2e862d8792e2235570eb2eb"
+    },
+    "id_recurso": {
+      "$oid": "97382b54a05434cf04b4b26e"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-03-03T13:28:54Z"
+  },
+  {
+    "_id": {
+      "$oid": "43c7ee9d445cad6ae00ccd4c"
+    },
+    "id_usuario": {
+      "$oid": "86118076074c9f6f043ed381"
+    },
+    "id_recurso": {
+      "$oid": "9e2a8957b671e58cde1367f7"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-03-17T12:57:33Z"
+  },
+  {
+    "_id": {
+      "$oid": "e3143ea75c0532a42d3fa77a"
+    },
+    "id_usuario": {
+      "$oid": "791685e5e75d968a40065dc2"
+    },
+    "id_recurso": {
+      "$oid": "f903b6a295cc6d1867880cbe"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-05-18T15:55:46Z"
+  },
+  {
+    "_id": {
+      "$oid": "ae10a43eb4cf9dcdaf60c556"
+    },
+    "id_usuario": {
+      "$oid": "185f77e7fb3f1a822d34c22c"
+    },
+    "id_recurso": {
+      "$oid": "7d3a1cd914a0401e55390fb4"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-07-13T00:16:47Z"
+  },
+  {
+    "_id": {
+      "$oid": "0492cde24ca145d44e53a529"
+    },
+    "id_usuario": {
+      "$oid": "362dfb74068abe8d73220eac"
+    },
+    "id_recurso": {
+      "$oid": "0624e6e54bb3400ed515fca7"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-01-08T10:24:41Z"
+  },
+  {
+    "_id": {
+      "$oid": "8a8b0fadf08ec413bbca0430"
+    },
+    "id_usuario": {
+      "$oid": "0ced544422ae9d74b4257523"
+    },
+    "id_recurso": {
+      "$oid": "d1c1cf4e980ac593dc8f3d39"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-04-07T18:39:37Z"
+  },
+  {
+    "_id": {
+      "$oid": "3a1195601acd48dfa578b842"
+    },
+    "id_usuario": {
+      "$oid": "86118076074c9f6f043ed381"
+    },
+    "id_recurso": {
+      "$oid": "3fa25b93af5072d4f1e90697"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-04-05T00:20:45Z"
+  },
+  {
+    "_id": {
+      "$oid": "675f63d5ca6c359970b0cb1c"
+    },
+    "id_usuario": {
+      "$oid": "791685e5e75d968a40065dc2"
+    },
+    "id_recurso": {
+      "$oid": "d66bbe024111187818ba72ed"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-04-17T14:16:14Z",
+    "fecha_fin": "2025-04-24T14:16:14Z"
+  },
+  {
+    "_id": {
+      "$oid": "ad8af3982ad495d4152203f9"
+    },
+    "id_usuario": {
+      "$oid": "0bad8560d1f0533debac90ab"
+    },
+    "id_recurso": {
+      "$oid": "40a8f95356a5321dd9970bc4"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-03-13T21:38:41Z"
+  },
+  {
+    "_id": {
+      "$oid": "4015fddf68cfc9196d44ee6c"
+    },
+    "id_usuario": {
+      "$oid": "0bad8560d1f0533debac90ab"
+    },
+    "id_recurso": {
+      "$oid": "9e2a8957b671e58cde1367f7"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-06-13T02:30:56Z",
+    "fecha_fin": "2025-06-22T02:30:56Z"
+  },
+  {
+    "_id": {
+      "$oid": "044d2849d222f2a5811eca08"
+    },
+    "id_usuario": {
+      "$oid": "185f77e7fb3f1a822d34c22c"
+    },
+    "id_recurso": {
+      "$oid": "5d18197e6dc98b298b6acdc9"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-01-31T06:18:33Z",
+    "fecha_fin": "2025-02-07T06:18:33Z"
+  },
+  {
+    "_id": {
+      "$oid": "429d47a71b614e42df5db734"
+    },
+    "id_usuario": {
+      "$oid": "e2e862d8792e2235570eb2eb"
+    },
+    "id_recurso": {
+      "$oid": "89d6580159c5aa8cf0e7cd51"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-06-24T01:20:15Z",
+    "fecha_fin": "2025-07-04T01:20:15Z"
+  },
+  {
+    "_id": {
+      "$oid": "81368193cfb789579fd1ce7d"
+    },
+    "id_usuario": {
+      "$oid": "0bad8560d1f0533debac90ab"
+    },
+    "id_recurso": {
+      "$oid": "97382b54a05434cf04b4b26e"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-04-02T22:31:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "9890a2f9dc0732d06070ecd8"
+    },
+    "id_usuario": {
+      "$oid": "f112d652ecf13dacd9c78c11"
+    },
+    "id_recurso": {
+      "$oid": "c765bcf697ad6524e4d4a788"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-06-24T15:04:46Z"
+  },
+  {
+    "_id": {
+      "$oid": "a999b271476f9e98aeb11db8"
+    },
+    "id_usuario": {
+      "$oid": "3e92bfaaa510a799067f34c1"
+    },
+    "id_recurso": {
+      "$oid": "04ee6b792c3b69147f499038"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-07-17T15:16:57Z"
+  },
+  {
+    "_id": {
+      "$oid": "c92dd92f392069e5bc24211b"
+    },
+    "id_usuario": {
+      "$oid": "362dfb74068abe8d73220eac"
+    },
+    "id_recurso": {
+      "$oid": "41b45a753ddf9d05662805a5"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-02-08T23:59:50Z",
+    "fecha_fin": "2025-02-18T23:59:50Z"
+  },
+  {
+    "_id": {
+      "$oid": "9f815b0bc13e260ebaf25628"
+    },
+    "id_usuario": {
+      "$oid": "86118076074c9f6f043ed381"
+    },
+    "id_recurso": {
+      "$oid": "0fbeefdacdebf6d17dd64c5b"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-03-15T02:53:28Z"
+  },
+  {
+    "_id": {
+      "$oid": "1f8a0e1d668a9276abb9b5ed"
+    },
+    "id_usuario": {
+      "$oid": "e2e862d8792e2235570eb2eb"
+    },
+    "id_recurso": {
+      "$oid": "3c3379611b8b50445df193fd"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-03-05T21:07:14Z"
+  },
+  {
+    "_id": {
+      "$oid": "1edb7065c294649376fd45ea"
+    },
+    "id_usuario": {
+      "$oid": "f112d652ecf13dacd9c78c11"
+    },
+    "id_recurso": {
+      "$oid": "d1c1cf4e980ac593dc8f3d39"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-06-21T01:43:07Z"
+  },
+  {
+    "_id": {
+      "$oid": "a2b033431a59c87f8e1778a1"
+    },
+    "id_usuario": {
+      "$oid": "185f77e7fb3f1a822d34c22c"
+    },
+    "id_recurso": {
+      "$oid": "5d18197e6dc98b298b6acdc9"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-01-26T07:59:09Z",
+    "fecha_fin": "2025-01-29T07:59:09Z"
+  },
+  {
+    "_id": {
+      "$oid": "81fae000a526cf5709775b18"
+    },
+    "id_usuario": {
+      "$oid": "f112d652ecf13dacd9c78c11"
+    },
+    "id_recurso": {
+      "$oid": "f903b6a295cc6d1867880cbe"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-06-15T17:34:14Z",
+    "fecha_fin": "2025-06-21T17:34:14Z"
+  },
+  {
+    "_id": {
+      "$oid": "cacea0798b12899d91508837"
+    },
+    "id_usuario": {
+      "$oid": "e2e862d8792e2235570eb2eb"
+    },
+    "id_recurso": {
+      "$oid": "2b05b4aca4d81af95f0eb07a"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-06-03T07:15:52Z"
+  },
+  {
+    "_id": {
+      "$oid": "17e9f7896b1f5a8983b68005"
+    },
+    "id_usuario": {
+      "$oid": "0bad8560d1f0533debac90ab"
+    },
+    "id_recurso": {
+      "$oid": "f5a4be01a81b53f5b20ae8ca"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-04-16T13:51:04Z"
+  },
+  {
+    "_id": {
+      "$oid": "b2505a201f7220a19c3c26ea"
+    },
+    "id_usuario": {
+      "$oid": "3e92bfaaa510a799067f34c1"
+    },
+    "id_recurso": {
+      "$oid": "a10f323c550f955379d3cd5a"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-04-09T03:12:01Z"
+  },
+  {
+    "_id": {
+      "$oid": "61bf53805f0ab25006aa5a33"
+    },
+    "id_usuario": {
+      "$oid": "f112d652ecf13dacd9c78c11"
+    },
+    "id_recurso": {
+      "$oid": "1b6cb6e9c9369859494992e7"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-06-19T19:09:13Z"
+  },
+  {
+    "_id": {
+      "$oid": "b65a1985760dc22a45e86299"
+    },
+    "id_usuario": {
+      "$oid": "e2e862d8792e2235570eb2eb"
+    },
+    "id_recurso": {
+      "$oid": "f95c60a3177e9fb78f9aea70"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-05-19T07:40:51Z"
+  },
+  {
+    "_id": {
+      "$oid": "ea405ebf185657aa753ff2cc"
+    },
+    "id_usuario": {
+      "$oid": "2a63c67684d8deed55d798f5"
+    },
+    "id_recurso": {
+      "$oid": "89d6580159c5aa8cf0e7cd51"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-05-08T06:57:48Z"
+  },
+  {
+    "_id": {
+      "$oid": "34a2a74a4d538327eb8773b7"
+    },
+    "id_usuario": {
+      "$oid": "f112d652ecf13dacd9c78c11"
+    },
+    "id_recurso": {
+      "$oid": "f903b6a295cc6d1867880cbe"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-02-05T04:43:32Z"
+  },
+  {
+    "_id": {
+      "$oid": "2bbe44465e03a3982883716e"
+    },
+    "id_usuario": {
+      "$oid": "3e92bfaaa510a799067f34c1"
+    },
+    "id_recurso": {
+      "$oid": "6c91986a38e24b9662e9a8c0"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-04-30T05:37:32Z",
+    "fecha_fin": "2025-05-10T05:37:32Z"
+  },
+  {
+    "_id": {
+      "$oid": "3521e7e19f96e874c739b6ad"
+    },
+    "id_usuario": {
+      "$oid": "2a63c67684d8deed55d798f5"
+    },
+    "id_recurso": {
+      "$oid": "d99b9aa64f607a265f8fcbe3"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-01-12T16:52:21Z"
+  },
+  {
+    "_id": {
+      "$oid": "a4f40f13a8a514fb2d967f37"
+    },
+    "id_usuario": {
+      "$oid": "185f77e7fb3f1a822d34c22c"
+    },
+    "id_recurso": {
+      "$oid": "3c3379611b8b50445df193fd"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-07-11T06:36:04Z",
+    "fecha_fin": "2025-07-17T06:36:04Z"
+  },
+  {
+    "_id": {
+      "$oid": "28e6459056ccb65d0eb80153"
+    },
+    "id_usuario": {
+      "$oid": "2a63c67684d8deed55d798f5"
+    },
+    "id_recurso": {
+      "$oid": "33d55d9de8cf14971436ee78"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-01-05T06:14:35Z"
+  },
+  {
+    "_id": {
+      "$oid": "53a545a2f6ad13deb4622bf9"
+    },
+    "id_usuario": {
+      "$oid": "0bad8560d1f0533debac90ab"
+    },
+    "id_recurso": {
+      "$oid": "6c91986a38e24b9662e9a8c0"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-04-08T07:22:13Z",
+    "fecha_fin": "2025-04-16T07:22:13Z"
+  },
+  {
+    "_id": {
+      "$oid": "d60edcdfdcb28a4f8167d3c0"
+    },
+    "id_usuario": {
+      "$oid": "2a63c67684d8deed55d798f5"
+    },
+    "id_recurso": {
+      "$oid": "c41596b2942d98645230d75e"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-03-20T18:07:06Z"
+  },
+  {
+    "_id": {
+      "$oid": "af4091307e8a5725e5a25be8"
+    },
+    "id_usuario": {
+      "$oid": "362dfb74068abe8d73220eac"
+    },
+    "id_recurso": {
+      "$oid": "7d3a1cd914a0401e55390fb4"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-06-04T12:40:56Z",
+    "fecha_fin": "2025-06-14T12:40:56Z"
+  },
+  {
+    "_id": {
+      "$oid": "bfd2a6b35ca507d9a1cd22bb"
+    },
+    "id_usuario": {
+      "$oid": "362dfb74068abe8d73220eac"
+    },
+    "id_recurso": {
+      "$oid": "a8f09244dfc1e6293382fd5f"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-05-31T03:36:23Z"
+  },
+  {
+    "_id": {
+      "$oid": "112491055d9c75d8d68d4aa4"
+    },
+    "id_usuario": {
+      "$oid": "791685e5e75d968a40065dc2"
+    },
+    "id_recurso": {
+      "$oid": "0de481af6d751ce4b3563cd7"
+    },
+    "estado": "terminado",
+    "fecha_inicio": "2025-06-19T04:11:51Z",
+    "fecha_fin": "2025-06-21T04:11:51Z"
+  },
+  {
+    "_id": {
+      "$oid": "29d530a58195b064e8cfce95"
+    },
+    "id_usuario": {
+      "$oid": "e2e862d8792e2235570eb2eb"
+    },
+    "id_recurso": {
+      "$oid": "5f46b16c079d5117247a3cd3"
+    },
+    "estado": "pendiente",
+    "fecha_inicio": "2025-06-01T04:11:01Z"
+  },
+  {
+    "_id": {
+      "$oid": "ea8242fa9806bbbb29e4f192"
+    },
+    "id_usuario": {
+      "$oid": "185f77e7fb3f1a822d34c22c"
+    },
+    "id_recurso": {
+      "$oid": "f95c60a3177e9fb78f9aea70"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-01-15T22:04:28Z"
+  },
+  {
+    "_id": {
+      "$oid": "b5c852ceb6597a0fef5a0ebf"
+    },
+    "id_usuario": {
+      "$oid": "2a63c67684d8deed55d798f5"
+    },
+    "id_recurso": {
+      "$oid": "f903b6a295cc6d1867880cbe"
+    },
+    "estado": "en progreso",
+    "fecha_inicio": "2025-06-30T17:01:53Z"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "_id": {
+      "$oid": "0624e6e54bb3400ed515fca7"
+    },
+    "titulo": "On responsibility southern",
+    "formato": "Serie",
+    "genero": "Comedia",
+    "plataforma": "YouTube",
+    "anio": 1988,
+    "tags": [
+      "misterio",
+      "amor"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "60b81ce0dc9061a34a659dc9"
+    },
+    "titulo": "Son might",
+    "formato": "Libro",
+    "genero": "Acción",
+    "plataforma": "Apple TV",
+    "anio": 1996,
+    "tags": [
+      "espacio",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f903b6a295cc6d1867880cbe"
+    },
+    "titulo": "Attorney",
+    "formato": "Serie",
+    "genero": "Comedia",
+    "plataforma": "Disney+",
+    "anio": 1986,
+    "tags": [
+      "historia",
+      "familia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "33d55d9de8cf14971436ee78"
+    },
+    "titulo": "Candidate feel",
+    "formato": "Serie",
+    "genero": "Ciencia ficción",
+    "plataforma": "HBO",
+    "anio": 2015,
+    "tags": [
+      "familia",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9e2a8957b671e58cde1367f7"
+    },
+    "titulo": "Former claim chance",
+    "formato": "Película",
+    "genero": "Ciencia ficción",
+    "plataforma": "YouTube",
+    "anio": 2020,
+    "tags": [
+      "amor",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "40a8f95356a5321dd9970bc4"
+    },
+    "titulo": "Why measure too",
+    "formato": "Película",
+    "genero": "Romance",
+    "plataforma": "Apple TV",
+    "anio": 2013,
+    "tags": [
+      "misterio",
+      "familia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a76beb2234a5700e290259f"
+    },
+    "titulo": "Almost before some",
+    "formato": "Serie",
+    "genero": "Drama",
+    "plataforma": "Netflix",
+    "anio": 2005,
+    "tags": [
+      "historia",
+      "tecnología"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e7034aa68a75287afaace8fc"
+    },
+    "titulo": "Serious wrong section",
+    "formato": "Serie",
+    "genero": "Drama",
+    "plataforma": "YouTube",
+    "anio": 2011,
+    "tags": [
+      "tecnología",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "7d3a1cd914a0401e55390fb4"
+    },
+    "titulo": "Face top",
+    "formato": "Libro",
+    "genero": "Terror",
+    "plataforma": "Disney+",
+    "anio": 2025,
+    "tags": [
+      "tecnología",
+      "familia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2b05b4aca4d81af95f0eb07a"
+    },
+    "titulo": "Stay lot social",
+    "formato": "Libro",
+    "genero": "Acción",
+    "plataforma": "Amazon Prime",
+    "anio": 1995,
+    "tags": [
+      "tecnología",
+      "amor"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d1c1cf4e980ac593dc8f3d39"
+    },
+    "titulo": "Parent do ten",
+    "formato": "Serie",
+    "genero": "Romance",
+    "plataforma": "Netflix",
+    "anio": 1985,
+    "tags": [
+      "misterio",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a56bff7b122642821a1c58c6"
+    },
+    "titulo": "Realize",
+    "formato": "Película",
+    "genero": "Drama",
+    "plataforma": "Disney+",
+    "anio": 2015,
+    "tags": [
+      "misterio",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0de481af6d751ce4b3563cd7"
+    },
+    "titulo": "Sit",
+    "formato": "Libro",
+    "genero": "Acción",
+    "plataforma": "Disney+",
+    "anio": 2014,
+    "tags": [
+      "amor",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "fe305dd181d243c5f62d3020"
+    },
+    "titulo": "Few now",
+    "formato": "Serie",
+    "genero": "Acción",
+    "plataforma": "Disney+",
+    "anio": 2008,
+    "tags": [
+      "familia",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "fd9808ffa820f9b27e9996c0"
+    },
+    "titulo": "Assume teacher wall",
+    "formato": "Película",
+    "genero": "Ciencia ficción",
+    "plataforma": "YouTube",
+    "anio": 1995,
+    "tags": [
+      "misterio",
+      "amor"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "734bbceb5ecf203ba82b32ab"
+    },
+    "titulo": "Significant his",
+    "formato": "Libro",
+    "genero": "Aventura",
+    "plataforma": "Amazon Prime",
+    "anio": 1982,
+    "tags": [
+      "espacio",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0fbeefdacdebf6d17dd64c5b"
+    },
+    "titulo": "Artist political camera",
+    "formato": "Película",
+    "genero": "Romance",
+    "plataforma": "Netflix",
+    "anio": 1985,
+    "tags": [
+      "historia",
+      "amor"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "db1ba817d87cfd108d984643"
+    },
+    "titulo": "Role free",
+    "formato": "Libro",
+    "genero": "Drama",
+    "plataforma": "Apple TV",
+    "anio": 1985,
+    "tags": [
+      "historia",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5d18197e6dc98b298b6acdc9"
+    },
+    "titulo": "Medical",
+    "formato": "Serie",
+    "genero": "Romance",
+    "plataforma": "Apple TV",
+    "anio": 2025,
+    "tags": [
+      "espacio",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "04ee6b792c3b69147f499038"
+    },
+    "titulo": "Cell three own",
+    "formato": "Serie",
+    "genero": "Aventura",
+    "plataforma": "Amazon Prime",
+    "anio": 1993,
+    "tags": [
+      "historia",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9ff8422a538ac717b835f092"
+    },
+    "titulo": "Purpose character",
+    "formato": "Película",
+    "genero": "Acción",
+    "plataforma": "Disney+",
+    "anio": 2008,
+    "tags": [
+      "aventura",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "41b45a753ddf9d05662805a5"
+    },
+    "titulo": "In partner hit",
+    "formato": "Serie",
+    "genero": "Terror",
+    "plataforma": "Apple TV",
+    "anio": 2002,
+    "tags": [
+      "familia",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a10f323c550f955379d3cd5a"
+    },
+    "titulo": "Blood",
+    "formato": "Serie",
+    "genero": "Drama",
+    "plataforma": "HBO",
+    "anio": 2017,
+    "tags": [
+      "historia",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "3fa25b93af5072d4f1e90697"
+    },
+    "titulo": "Sing after our",
+    "formato": "Libro",
+    "genero": "Comedia",
+    "plataforma": "Netflix",
+    "anio": 1997,
+    "tags": [
+      "familia",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "3c3379611b8b50445df193fd"
+    },
+    "titulo": "Picture black",
+    "formato": "Libro",
+    "genero": "Ciencia ficción",
+    "plataforma": "Apple TV",
+    "anio": 1990,
+    "tags": [
+      "misterio",
+      "aventura"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "cbe83e441a6a6069e9404692"
+    },
+    "titulo": "Power crime situation",
+    "formato": "Libro",
+    "genero": "Drama",
+    "plataforma": "Apple TV",
+    "anio": 1989,
+    "tags": [
+      "tecnología",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4863a82e424f6e2b71fc3120"
+    },
+    "titulo": "Book art red",
+    "formato": "Libro",
+    "genero": "Drama",
+    "plataforma": "Apple TV",
+    "anio": 2016,
+    "tags": [
+      "historia",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2818c1f675e36aff4b667d52"
+    },
+    "titulo": "Place full buy radio",
+    "formato": "Serie",
+    "genero": "Terror",
+    "plataforma": "Netflix",
+    "anio": 1981,
+    "tags": [
+      "familia",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f46b16c079d5117247a3cd3"
+    },
+    "titulo": "Fast support when hold",
+    "formato": "Libro",
+    "genero": "Acción",
+    "plataforma": "Apple TV",
+    "anio": 2016,
+    "tags": [
+      "familia",
+      "aventura"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f95c60a3177e9fb78f9aea70"
+    },
+    "titulo": "True their",
+    "formato": "Libro",
+    "genero": "Ciencia ficción",
+    "plataforma": "Apple TV",
+    "anio": 1987,
+    "tags": [
+      "familia",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "89d6580159c5aa8cf0e7cd51"
+    },
+    "titulo": "Million size",
+    "formato": "Libro",
+    "genero": "Comedia",
+    "plataforma": "Amazon Prime",
+    "anio": 2025,
+    "tags": [
+      "familia",
+      "aventura"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c3b004e92a31b4cc2903f8ba"
+    },
+    "titulo": "Although hot",
+    "formato": "Libro",
+    "genero": "Terror",
+    "plataforma": "Apple TV",
+    "anio": 1983,
+    "tags": [
+      "historia",
+      "familia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d66bbe024111187818ba72ed"
+    },
+    "titulo": "Series lay smile",
+    "formato": "Serie",
+    "genero": "Romance",
+    "plataforma": "YouTube",
+    "anio": 1986,
+    "tags": [
+      "tecnología",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4fed0d637f4e99e29687f073"
+    },
+    "titulo": "What top",
+    "formato": "Libro",
+    "genero": "Comedia",
+    "plataforma": "Netflix",
+    "anio": 2021,
+    "tags": [
+      "misterio",
+      "tecnología"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9b9787bcdc85e4ba62c821f9"
+    },
+    "titulo": "Mention",
+    "formato": "Película",
+    "genero": "Comedia",
+    "plataforma": "Netflix",
+    "anio": 2012,
+    "tags": [
+      "aventura",
+      "familia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "23c1d10662777e8011b6ed2b"
+    },
+    "titulo": "Too war",
+    "formato": "Serie",
+    "genero": "Drama",
+    "plataforma": "Kindle",
+    "anio": 2005,
+    "tags": [
+      "amor",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a99289c13ce56ecc3ce4154"
+    },
+    "titulo": "Occur democratic behavior",
+    "formato": "Película",
+    "genero": "Terror",
+    "plataforma": "HBO",
+    "anio": 2016,
+    "tags": [
+      "amor",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "97382b54a05434cf04b4b26e"
+    },
+    "titulo": "Single recognize information figure",
+    "formato": "Serie",
+    "genero": "Comedia",
+    "plataforma": "Apple TV",
+    "anio": 1983,
+    "tags": [
+      "tecnología",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "bf538adaeca2392ea37af8db"
+    },
+    "titulo": "Certainly through",
+    "formato": "Libro",
+    "genero": "Aventura",
+    "plataforma": "Amazon Prime",
+    "anio": 2001,
+    "tags": [
+      "espacio",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1b6cb6e9c9369859494992e7"
+    },
+    "titulo": "Type very indeed",
+    "formato": "Libro",
+    "genero": "Acción",
+    "plataforma": "HBO",
+    "anio": 2022,
+    "tags": [
+      "amor",
+      "familia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6c91986a38e24b9662e9a8c0"
+    },
+    "titulo": "Indeed choose",
+    "formato": "Película",
+    "genero": "Terror",
+    "plataforma": "HBO",
+    "anio": 2016,
+    "tags": [
+      "tecnología",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6ac319ea60eba1b18dabb8aa"
+    },
+    "titulo": "Strong",
+    "formato": "Película",
+    "genero": "Terror",
+    "plataforma": "Disney+",
+    "anio": 2004,
+    "tags": [
+      "tecnología",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c765bcf697ad6524e4d4a788"
+    },
+    "titulo": "Issue indicate market",
+    "formato": "Película",
+    "genero": "Comedia",
+    "plataforma": "YouTube",
+    "anio": 2024,
+    "tags": [
+      "familia",
+      "aventura"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c41596b2942d98645230d75e"
+    },
+    "titulo": "Reveal bad audience",
+    "formato": "Serie",
+    "genero": "Drama",
+    "plataforma": "Disney+",
+    "anio": 1982,
+    "tags": [
+      "espacio",
+      "misterio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d99b9aa64f607a265f8fcbe3"
+    },
+    "titulo": "Reality generation concern",
+    "formato": "Libro",
+    "genero": "Comedia",
+    "plataforma": "Apple TV",
+    "anio": 2010,
+    "tags": [
+      "misterio",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f5a4be01a81b53f5b20ae8ca"
+    },
+    "titulo": "Standard audience",
+    "formato": "Película",
+    "genero": "Terror",
+    "plataforma": "Disney+",
+    "anio": 2017,
+    "tags": [
+      "historia",
+      "espacio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "7c9ab6c6ed97d6156ef6220c"
+    },
+    "titulo": "Debate daughter",
+    "formato": "Libro",
+    "genero": "Terror",
+    "plataforma": "Disney+",
+    "anio": 2004,
+    "tags": [
+      "historia",
+      "aventura"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a8f09244dfc1e6293382fd5f"
+    },
+    "titulo": "Security fall",
+    "formato": "Serie",
+    "genero": "Drama",
+    "plataforma": "Netflix",
+    "anio": 2018,
+    "tags": [
+      "amor",
+      "historia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f975cac131596a173150a09"
+    },
+    "titulo": "Worker",
+    "formato": "Película",
+    "genero": "Comedia",
+    "plataforma": "Amazon Prime",
+    "anio": 1994,
+    "tags": [
+      "historia",
+      "aventura"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "7386d46e2210076316c5d4d5"
+    },
+    "titulo": "Do center law live",
+    "formato": "Película",
+    "genero": "Terror",
+    "plataforma": "Kindle",
+    "anio": 2016,
+    "tags": [
+      "tecnología",
+      "aventura"
+    ]
+  }
+]

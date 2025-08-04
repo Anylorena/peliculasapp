@@ -1,0 +1,132 @@
+[
+  {
+    "_id": {
+      "$oid": "f112d652ecf13dacd9c78c11"
+    },
+    "nombre": "Gabriella Williams",
+    "correo": "johnbenton@yahoo.com",
+    "telefono": "5992466109",
+    "listas": [
+      {
+        "$oid": "e292b29227c6585c459981fa"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2a63c67684d8deed55d798f5"
+    },
+    "nombre": "Mark Gray",
+    "correo": "moralesjacqueline@yahoo.com",
+    "telefono": "2714278789",
+    "listas": [
+      {
+        "$oid": "e292b29227c6585c459981fa"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "3e92bfaaa510a799067f34c1"
+    },
+    "nombre": "Ryan Williams",
+    "correo": "amymccarty@gmail.com",
+    "telefono": "0665030089",
+    "listas": [
+      {
+        "$oid": "11b728aa4f72d86f27de0e9c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "185f77e7fb3f1a822d34c22c"
+    },
+    "nombre": "Christina Turner",
+    "correo": "alvarezsandra@miller.com",
+    "telefono": "2851240003",
+    "listas": [
+      {
+        "$oid": "897b3cbde05d617a8abd08f8"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "362dfb74068abe8d73220eac"
+    },
+    "nombre": "Teresa Browning",
+    "correo": "djoseph@graham.biz",
+    "telefono": "0224555159",
+    "listas": [
+      {
+        "$oid": "ed20257a5e6bee185d5787d4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0ced544422ae9d74b4257523"
+    },
+    "nombre": "William Roberts",
+    "correo": "kellywoods@gmail.com",
+    "telefono": "4281465461",
+    "listas": [
+      {
+        "$oid": "5ed9b9c605cf2e89ed1e77c6"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e2e862d8792e2235570eb2eb"
+    },
+    "nombre": "Ryan Cherry",
+    "correo": "mendozaholly@yahoo.com",
+    "telefono": "4522961113",
+    "listas": [
+      {
+        "$oid": "e292b29227c6585c459981fa"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "86118076074c9f6f043ed381"
+    },
+    "nombre": "James Stone",
+    "correo": "tkramer@hotmail.com",
+    "telefono": "6153492635",
+    "listas": [
+      {
+        "$oid": "897b3cbde05d617a8abd08f8"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "791685e5e75d968a40065dc2"
+    },
+    "nombre": "Jocelyn Rhodes",
+    "correo": "nsanders@williams.com",
+    "telefono": "3765821972",
+    "listas": [
+      {
+        "$oid": "5ed9b9c605cf2e89ed1e77c6"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0bad8560d1f0533debac90ab"
+    },
+    "nombre": "Kathleen Stark",
+    "correo": "obolton@hotmail.com",
+    "telefono": "8930555082",
+    "listas": [
+      {
+        "$oid": "3d2e3490b74f7f432e961f2a"
+      }
+    ]
+  }
+]
